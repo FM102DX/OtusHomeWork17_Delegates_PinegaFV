@@ -1,0 +1,12 @@
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\bin\Debug\HwPassportDocReceiver.dll
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\bin\Debug\HwPassportDocReceiver.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.csproj.AssemblyReference.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.csproj.CoreCompileInputs.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.dll
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\bin\Debug\HwPassportDocReceiver.dll
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\bin\Debug\HwPassportDocReceiver.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.csproj.AssemblyReference.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.csproj.CoreCompileInputs.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.dll
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\HwPassportDocReceiver\obj\Debug\HwPassportDocReceiver.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwPassportApp", "HwPassportApp.csproj", "{57824F26-1CA2-42E9-8256-C1F670F26389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwPassportDocReceiver", "HwPassportDocReceiver\HwPassportDocReceiver.csproj", "{642A1258-C389-4C91-A6E3-721239DEB61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57824F26-1CA2-42E9-8256-C1F670F26389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57824F26-1CA2-42E9-8256-C1F670F26389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57824F26-1CA2-42E9-8256-C1F670F26389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57824F26-1CA2-42E9-8256-C1F670F26389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642A1258-C389-4C91-A6E3-721239DEB61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642A1258-C389-4C91-A6E3-721239DEB61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642A1258-C389-4C91-A6E3-721239DEB61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642A1258-C389-4C91-A6E3-721239DEB61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7AAD033-3122-4617-98F1-ABBA2015D5CE}
+	EndGlobalSection
+EndGlobal
