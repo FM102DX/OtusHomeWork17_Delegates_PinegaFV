@@ -8,3 +8,13 @@ C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\obj\Debug\HwPassportApp.csproj.CopyComplete
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\obj\Debug\HwPassport.exe
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\obj\Debug\HwPassport.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\bin\Debug\HwPassport.exe.config
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\bin\Debug\HwPassport.exe
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\bin\Debug\HwPassport.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\bin\Debug\HwPassportDocReceiver.dll
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\bin\Debug\HwPassportDocReceiver.pdb
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.AssemblyReference.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.CoreCompileInputs.cache
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.CopyComplete
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.exe
+C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.pdb

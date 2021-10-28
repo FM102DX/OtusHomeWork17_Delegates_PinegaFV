@@ -17,13 +17,14 @@ namespace HwPassport
         static HwPassportDocReceiver.PassportDocumentsReceiver receiver;
         static PassportDocumentsSender sender;
         static int sendingDocumentsIntervalMs = 1500;
-        static int waitingInterval = 7000;
+        static int waitingInterval = 2500;
+        static string targetDirectoryName = "PassportDocuments";
 
         static void Main(string[] args)
         {
             Console.WriteLine("Starting receiving documents for passport");
 
-            string targetDirectory = Path.Combine(Environment.CurrentDirectory, "PassportDocuments");
+            string targetDirectory = Path.Combine(Environment.CurrentDirectory, targetDirectoryName);
             List<string> documentFilenames = new List<string> { "Паспорт.jpg", "Заявление.txt", "Фото.jpg" };
             
 

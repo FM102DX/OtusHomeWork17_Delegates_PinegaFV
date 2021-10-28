@@ -114,11 +114,17 @@ namespace HwPassportDocReceiver
         private void TurnOffTimer()
         {
             _timer.Stop();
+            _timer.Elapsed -= Timer_Elapsed;
         }
 
         private void TurnOffTWatcher()
         {
-            if (_watcher!=null) _watcher.EnableRaisingEvents=false;
+            if (_watcher != null)
+            {
+                _watcher.EnableRaisingEvents = false;
+                _watcher.Changed -= Watcher_Changed;
+            }
+
             _watcher = null;
         }
 
