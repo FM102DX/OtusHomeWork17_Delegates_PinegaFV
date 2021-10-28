@@ -17,7 +17,7 @@ namespace HwPassport
         static HwPassportDocReceiver.PassportDocumentsReceiver receiver;
         static PassportDocumentsSender sender;
         static int sendingDocumentsIntervalMs = 1500;
-        static int waitingInterval = 2500;
+        static int waitingInterval = 7000;
         static string targetDirectoryName = "PassportDocuments";
 
         static void Main(string[] args)
