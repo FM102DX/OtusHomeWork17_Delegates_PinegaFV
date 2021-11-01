@@ -26,17 +26,10 @@ namespace HwPassportDocReceiver
         private bool _documentsReady;
         private bool imWorking;
 
-        private readonly object _locker = new object();
+        private static readonly object _locker = new object();
         private PassportDocumentsReceiver(List<string> documentFilenames)
         {
             _documentFilenames = documentFilenames;
-
-        }
-
-        public static PassportDocumentsReceiver GetMyInstance (List<string> documentFilenames)
-        {
-            PassportDocumentsReceiver rez = new PassportDocumentsReceiver (documentFilenames);
-            return rez;
         }
 
         public void Start(int waitingInterval, string targetDirectory)
@@ -115,6 +108,7 @@ namespace HwPassportDocReceiver
         {
             _timer.Stop();
             _timer.Elapsed -= Timer_Elapsed;
+            _timer.Dispose();
         }
 
         private void TurnOffTWatcher()
@@ -125,7 +119,7 @@ namespace HwPassportDocReceiver
                 _watcher.Changed -= Watcher_Changed;
             }
 
-            _watcher = null;
+            _watcher.Dispose();
         }
 
         private void OnDocumentsReady()

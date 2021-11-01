@@ -18,3 +18,7 @@ C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.CopyComplete
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.exe
 C:\data\Units\A200--PROJECTS\BA\Develop\OtusLearning\10_hw_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.pdb
+C:\Develop\OtusLearning\Lesson17_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.AssemblyReference.cache
+C:\Develop\OtusLearning\Lesson17_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassportApp.csproj.CoreCompileInputs.cache
+C:\Develop\OtusLearning\Lesson17_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.exe
+C:\Develop\OtusLearning\Lesson17_delegates\HwPassport\OtusHomeWork17_Delegates_PinegaFV\obj\Debug\HwPassport.pdb
